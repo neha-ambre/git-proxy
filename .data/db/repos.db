@@ -1,0 +1,3 @@
+{"project":"neha-ambre","name":"git-proxy","url":"https://github.com/neha-ambre/DemoProj.git","users":{"canPush":[],"canAuthorise":[]},"_id":"18w74JlCkeEDs4jH"}
+{"project":"neha-ambre","name":"git-proxy","url":"https://github.com/neha-ambre/DemoProj.git","users":{"canPush":["admin"],"canAuthorise":[]},"_id":"18w74JlCkeEDs4jH"}
+{"project":"neha-ambre","name":"git-proxy","url":"https://github.com/neha-ambre/DemoProj.git","users":{"canPush":["admin"],"canAuthorise":["admin"]},"_id":"18w74JlCkeEDs4jH"}

@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@finos/git-proxy": "file:../Finos-Hackthon/git-proxy/finos-git-proxy-1.5.2.tgz"
+  }
 }
